@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LinearWipeFade
+  m_Controller: {fileID: 9100000, guid: 20596007c53382445908c0f3cef91709, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0f88f2ba3783ced4085a118301d9c1b7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b2ece2d0d3f300f498e5f38e8a22ae2b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 472a94cc44eea344baf24c940c57eb9f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1e084b0042325d2448a4ae6ceec15875, type: 2}
